@@ -14,4 +14,4 @@ dnf5 remove -y kcm_ublue
 # https://mirrors.rpmfusion.org/mirrorlist?path=free/fedora/updates/39/x86_64/repoview/index.html&protocol=https&redirect=1
 
 # Install necessary modules and plugins for pipewire filter-chains.
-dnf5 install -y lsp-plugins-lv2 lv2-bankstown pipewire-module-filter-chain-lv2
+# dnf5 install -y lsp-plugins-lv2 lv2-bankstown pipewire-module-filter-chain-lv2
