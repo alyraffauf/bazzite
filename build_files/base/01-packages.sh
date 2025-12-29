@@ -3,8 +3,8 @@
 set -ouex pipefail
 
 ### Remove packages
-# Remove Aurora-specific KCM, not suitable for our purposes.
-dnf5 remove -y kcm_ublue
+# # Remove Aurora-specific KCM, not suitable for our purposes.
+# dnf5 remove -y kcm_ublue
 
 ### Install packages
 
